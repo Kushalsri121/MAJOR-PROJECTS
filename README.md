@@ -1,2 +1,2 @@
 # PROJECTS
-Projects Related to Verilog stuffs.
+Projects related to new skills I have learned.
