@@ -1,2 +1,2 @@
-# Project-Veilog-
+# PROJECTS
 Projects Related to Verilog stuffs.
